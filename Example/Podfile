@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOS-NSString-Pinyin_Example' do
+  pod 'iOS-NSString-Pinyin', :path => '../'
+
+  target 'iOS-NSString-Pinyin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
