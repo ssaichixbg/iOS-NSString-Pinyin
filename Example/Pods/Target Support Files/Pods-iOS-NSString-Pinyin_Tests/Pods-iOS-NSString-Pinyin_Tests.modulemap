@@ -1,0 +1,6 @@
+framework module Pods_iOS_NSString_Pinyin_Tests {
+  umbrella header "Pods-iOS-NSString-Pinyin_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - iOS-NSString-Pinyin (0.1.0)
+
+DEPENDENCIES:
+  - iOS-NSString-Pinyin (from `../`)
+
+EXTERNAL SOURCES:
+  iOS-NSString-Pinyin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOS-NSString-Pinyin: aa63e55af4ff0f82979243d909e4762aad183da1
+
+PODFILE CHECKSUM: 9affc685f94f6c76db7b7dcef5988460ca49750e
+
+COCOAPODS: 1.5.3

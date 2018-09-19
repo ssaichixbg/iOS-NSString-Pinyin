@@ -1,0 +1,22 @@
+{
+  "name": "iOS-NSString-Pinyin",
+  "version": "0.1.0",
+  "summary": "A category of NSString to convert Chinese Characters to PinYin",
+  "description": "A category of NSString to convert Chinese Characters to PinYin",
+  "homepage": "https://github.com/Yang Zhang/iOS-NSString-Pinyin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yang Zhang": "simon.zhang@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/Yang Zhang/iOS-NSString-Pinyin.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOS-NSString-Pinyin/Classes/**/*"
+}
